@@ -1,0 +1,20 @@
+{
+  "name": "leanos-plugins",
+  "interface": {
+    "displayName": "LeanOS Plugins"
+  },
+  "plugins": [
+    {
+      "name": "options-os-intent",
+      "source": {
+        "source": "local",
+        "path": "./plugins/options-os-intent"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

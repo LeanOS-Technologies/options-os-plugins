@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "options-os-intent",
+  "version": "0.1.0",
+  "description": "Turn a trading idea into an engine intent for Options OS.",
+  "author": {
+    "name": "LeanOS Technologies",
+    "url": "https://www.leanos.tech/"
+  },
+  "homepage": "https://www.leanos.tech/",
+  "repository": "https://github.com/LeanOS-Technologies/options-os-plugins",
+  "keywords": [
+    "options-os",
+    "crypto options",
+    "trading engine",
+    "intent"
+  ]
+}

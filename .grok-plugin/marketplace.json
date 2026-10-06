@@ -1,0 +1,28 @@
+{
+  "name": "leanos-plugins",
+  "description": "LeanOS plugins for Options OS.",
+  "owner": {
+    "name": "LeanOS Technologies",
+    "url": "https://www.leanos.tech/"
+  },
+  "plugins": [
+    {
+      "name": "options-os-intent",
+      "description": "Prepare a trading engine intent for Options OS.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./plugins/options-os-intent"
+      },
+      "homepage": "https://www.leanos.tech/",
+      "keywords": [
+        "options os",
+        "options-os",
+        "crypto options engine"
+      ],
+      "domains": [
+        "leanos.tech"
+      ]
+    }
+  ]
+}

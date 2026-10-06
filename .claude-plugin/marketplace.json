@@ -1,0 +1,17 @@
+{
+  "name": "leanos-plugins",
+  "owner": {
+    "name": "LeanOS Technologies",
+    "url": "https://www.leanos.tech/"
+  },
+  "metadata": {
+    "description": "LeanOS plugins for Options OS."
+  },
+  "plugins": [
+    {
+      "name": "options-os-intent",
+      "source": "./plugins/options-os-intent",
+      "description": "Prepare a trading engine intent for Options OS."
+    }
+  ]
+}
