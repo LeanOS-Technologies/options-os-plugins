@@ -8,6 +8,7 @@
   },
   "homepage": "https://www.leanos.tech/",
   "repository": "https://github.com/LeanOS-Technologies/options-os-plugins",
+  "license": "MIT",
   "keywords": [
     "options-os",
     "crypto options",
